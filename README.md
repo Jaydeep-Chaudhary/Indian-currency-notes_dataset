@@ -30,8 +30,12 @@ This repository contains dataset of "Indian_Currency_Notes" in which 6934 images
 
 <tr>
 
-<td>![Currency](Samples/1.jpg?raw=true "Currency")</td>
-<td>![Currency](Samples/2.jpg?raw=true "Currency")</td>
+<td>
+![Currency](Samples/1.jpg?raw=true "Currency")
+</td>
+<td>
+![Currency](Samples/2.jpg?raw=true "Currency")
+</td>
 
 </tr>
 
