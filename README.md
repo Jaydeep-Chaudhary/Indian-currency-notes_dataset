@@ -42,6 +42,12 @@ This repository contains dataset of "Indian_Currency_Notes" in which 6934 images
 <td>
 <img src="https://github.com/Jaydeep-Chaudhary/Indian-currency-notes_dataset/blob/master/Samples/4.jpg" alt="currency" />
 </td>
+<td>
+<img src="https://github.com/Jaydeep-Chaudhary/Indian-currency-notes_dataset/blob/master/Samples/5.jpg" alt="currency" />
+</td>
+<td>
+<img src="https://github.com/Jaydeep-Chaudhary/Indian-currency-notes_dataset/blob/master/Samples/6.jpg" alt="currency" />
+</td>
 </tr>
 
 </table>
