@@ -27,4 +27,4 @@ This repository contains dataset of "Indian_Currency_Notes" in which 6934 images
 **dataset can be downloaded from <a href="https://drive.google.com/file/d/1s10mPfgmuRb9x8H1trKsP-u9KSwgGq6u/view?usp=sharing">HERE</a>**
 
 
-![Currency](relative/path/to/img.jpg?raw=true "Currency")
+![Currency](samples/1.jpg?raw=true "Currency")
