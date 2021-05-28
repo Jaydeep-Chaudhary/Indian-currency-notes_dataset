@@ -24,7 +24,7 @@ This repository contains dataset of "Indian_Currency_Notes" in which 6934 images
        └── mix
        
        
-**dataset can be downloaded from HERE	_<<< <a href="https://drive.google.com/file/d/1s10mPfgmuRb9x8H1trKsP-u9KSwgGq6u/view?usp=sharing">LINK</a>  >>>_**
+**dataset can be downloaded from HERE	_<<< LINK  >>>_**
 
 <table>
 
